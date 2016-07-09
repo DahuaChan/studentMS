@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</driver>
+	<url>jdbc:sqlserver://127.0.0.1:1433;databaseName=studentmanagement</url>
+	<username>sa</username>
+	<password>313921056</password>
+</config>
